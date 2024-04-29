@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="608.35" height="263.35" viewBox="0 0 608.35 263.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #df6550;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6.35px;
+      }
+    </style>
+  </defs>
+  <rect id="RiquadroPronto" class="cls-1" x="3.175" y="3.175" width="602" height="257" rx="20" ry="20"/>
+</svg>
