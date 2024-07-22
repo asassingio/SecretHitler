@@ -6,6 +6,7 @@
         Fascista, 
         Hitler, 
         Banchiere, 
-        // Comunista
+        Comunista,
+        Stalin
     }
 }

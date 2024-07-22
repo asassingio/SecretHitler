@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="445" height="154" viewBox="0 0 445 154">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #454442;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+        font-size: 200px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: EskapadeFrakturW04-Black;
+      }
+    </style>
+  </defs>
+  <text id="Gioca" class="cls-1" x="218.834" y="145.2"><tspan x="213.834">Gioca</tspan></text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="35" viewBox="0 0 142 35">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+        fill: #454442;
+        text-anchor: middle;
+        font-family: EskapadeFrakturW04-Black;
+      }
+    </style>
+  </defs>
+  <text id="Server:" class="cls-1" x="71.273" y="34.346"><tspan x="71.273">Server:</tspan></text>
+</svg>

@@ -39,7 +39,7 @@ namespace FishNet.Upgrading.Mirror.Editing
     * If you receive errors about missing Mirror components,
     * such as NetworkIdentity, then remove MIRROR and any other
     * MIRROR defines.
-    * Project Settings -> PlayerController -> Other -> Scripting Define Symbols.
+    * Project Settings -> Player -> Other -> Scripting Define Symbols.
     * 
     * If you are also using my assets add FGG_ASSETS to the defines, and
     * then remove it after running this script. */

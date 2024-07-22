@@ -1,9 +1,11 @@
 ﻿
+using Managers;
+using PlayerComponents;
 using UnityEngine;
 
 public static class Utils
 {
-    public static void ActiveIfAdmin(GameObject adminSettings, PlayerController ownerPlayerController, string callerName)
+    public static void ActiveIfAdmin(GameObject adminSettings, MyPlayerController ownerPlayerController, string callerName)
     {
         // attiva le opzioni admin
         adminSettings.SetActive(false);

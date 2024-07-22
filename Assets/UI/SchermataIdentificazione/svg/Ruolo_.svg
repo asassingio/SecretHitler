@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="261" height="75" viewBox="0 0 261 75">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 100px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: EskapadeFrakturW04-Black;
+      }
+    </style>
+  </defs>
+  <text id="Ruolo:" class="cls-1" x="132.263" y="73.459"><tspan x="132.263">Ruolo:</tspan></text>
+</svg>

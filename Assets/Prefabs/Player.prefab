@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8200602872046409851}
   - component: {fileID: 8200602872046409849}
-  - component: {fileID: 8200602872046409848}
-  - component: {fileID: -4051107274892017794}
+  - component: {fileID: 8380464814922557329}
+  - component: {fileID: 845268507987068667}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -47,14 +47,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _componentIndexCache: 0
-  _addedNetworkObject: {fileID: 8200602872046409848}
-  _networkObjectCache: {fileID: 8200602872046409848}
+  _addedNetworkObject: {fileID: 8380464814922557329}
+  _networkObjectCache: {fileID: 8380464814922557329}
   playerName: 
   secretRole: 0
   isReady: 0
-  isAlive: 0
   isAdmin: 0
---- !u!114 &8200602872046409848
+  isInGame: 0
+--- !u!114 &8380464814922557329
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -75,19 +75,19 @@ MonoBehaviour:
   <ChildNetworkObjects>k__BackingField: []
   SerializedTransformProperties:
     Position: {x: 0, y: 0, z: 0}
-    Rotation: {x: 0, y: 0, z: 0, w: 0}
-    LocalScale: {x: 0, y: 0, z: 0}
+    Rotation: {x: 0, y: 0, z: 0, w: 1}
+    LocalScale: {x: 1, y: 1, z: 1}
   _isNetworked: 1
   _isGlobal: 0
-  _initializeOrder: 10
+  _initializeOrder: 0
   _defaultDespawnType: 0
   NetworkObserver: {fileID: 0}
-  <PrefabId>k__BackingField: 7
+  <PrefabId>k__BackingField: 12
   <SpawnableCollectionId>k__BackingField: 0
   _scenePathHash: 0
   <SceneId>k__BackingField: 0
   <AssetPathHash>k__BackingField: 7807759643866311769
---- !u!114 &-4051107274892017794
+--- !u!114 &845268507987068667
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
